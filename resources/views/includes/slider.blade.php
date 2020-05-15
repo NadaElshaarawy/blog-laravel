@@ -1,5 +1,5 @@
 
-
+ 
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
@@ -35,8 +35,4 @@
         </a>
       </div>
     </div>
-            <style>
-            .carousel.carousel slide,
-            carousel slide carousel-inner
-            {margin-top:0;}
-                </style>
+

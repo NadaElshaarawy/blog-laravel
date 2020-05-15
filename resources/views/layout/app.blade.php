@@ -11,8 +11,9 @@
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
         <link href="{{asset('css/app.css')}}" rel="stylesheet" type="text/css"> 
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" rel="stylesheet" type="text/css"> 
-
+        <link rel="stylesheet" href="{{ asset('css/styles.css') }}" />
         <!-- Styles -->
+        
   
     </head>
     <body>
